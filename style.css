@@ -1,0 +1,51 @@
+h2 {
+   text-align: center;
+   text-decoration: underline wavy;
+
+  }
+
+  .container{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    margin-left: 100px;
+    
+
+  }
+  
+
+  .box-1 {
+    color:white;
+    font-size: small;
+    text-align: center;
+    background-color: lightseagreen;
+    width: 350px;
+    height: 100px;
+    margin-right: 100px;
+    padding-top: 2dvb;
+   
+  }
+  
+  .box-2 {
+    color:white;
+    font-size: small;
+    text-align: center;
+    background-color: fuchsia;
+    width: 350px;
+    height: 100px;
+    margin-right: 100px;
+    padding-top: 20px;
+  }
+  
+  .box-3 {
+    color:white;
+    font-size: small;
+    text-align: center;
+    background-color: navy;
+    width: 350px;
+    height: 100px;
+    margin-right: 100px;
+    padding-top: 20px;
+  }
+
+ 
